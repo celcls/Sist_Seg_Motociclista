@@ -6,5 +6,5 @@
  &emsp; <p1>  O projeto ainda é um case(se há um protótipo), porém foi testado e aprovado com a resalva de que foi testa em um motor de ventilador.<p1>
 	<br/>
 	
-	&emsp; Entre em contato pelo e-mail: celso1889@outlook.com para ter acesso aos pesos treinados.
+	&emsp;<p1> Entre em contato pelo e-mail: celso1889@outlook.com para ter acesso aos pesos treinados. </p1>
 	
