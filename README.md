@@ -1,4 +1,4 @@
-# Sist_Seg_Motociclista
+# Sistema de segurança para motociclista
 
   &emsp; <p1>  Esse repositório possui um sistema voltado para proteção de motociclista. O script desenvolvido em python é o YOLOV4, uma machine learning..</p1><br/>
   &emsp; <p1>   O mesmo foi utilizado para identificar se o motociclista está fazendo o uso do equipamento de segurança, o capacete,
